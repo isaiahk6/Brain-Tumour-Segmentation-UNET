@@ -24,7 +24,7 @@ This project implements the full U-Net architecture (encoder, bottleneck, decode
 ![Training Progress](results/training_plot.png)
 
 ### Sample predictions
-![Sample Predictions](results/sample_predictions.png)
+![Sample Predictions](results/sample_predictions-2.png)
 
 **Final metrics:**
 - Best validation Dice score: `[fill in your best_dice]`
