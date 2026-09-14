@@ -27,8 +27,8 @@ This project implements the full U-Net architecture (encoder, bottleneck, decode
 ![Sample Predictions](results/sample_predictions-2.png)
 
 **Final metrics:**
-- Best validation Dice score: `[fill in your best_dice]`
-- Final validation IoU: `[fill in your final val_iou]`
+- Best validation Dice score: 0.8623
+- Final validation IoU: 0.7752
 
 ## How to run
 1. Clone this repo
