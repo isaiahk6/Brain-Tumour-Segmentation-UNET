@@ -34,7 +34,7 @@ This project implements the full U-Net architecture (encoder, bottleneck, decode
 1. Clone this repo
 2. `pip install torch torchvision nibabel numpy matplotlib`
 3. Download the BraTS2020 dataset from Kaggle
-4. Load the trained weights. Trained weights (124MB) are hosted on Google Drive due to GitHub's file size limits: [Download here]([https://drive.google.com/file/d/1uytu9MHWLSH9nbcTDWIV3BgVhAhHkbLa/view?usp=sharing])
+4. Load the trained weights. Trained weights (124MB) are hosted on Google Drive due to GitHub's file size limits: [Download here](https://drive.google.com/file/d/1uytu9MHWLSH9nbcTDWIV3BgVhAhHkbLa/view?usp=sharing)
 
 ## Notes
 This is a portfolio/learning project and is not intended for clinical use.
